@@ -1,0 +1,2 @@
+,timeUpdated,percentFull,rateDaily,daysUntil
+0,2022-05-06,18.8,210.5,227.40142517814726
